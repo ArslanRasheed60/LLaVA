@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+gradio
+requests
+pillow
+transformers
+llava
+python-multipart
